@@ -93,7 +93,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | 状态 | 网站名 | 网址 |
 | --- | --- | --- |
 | ✅已上线 | 造作家 | [造作家](https://www.hitsz.top/) |
-| ✅已上线 | 谢週五の导航站 | [谢週五の导航站 \- 5nav\.ml](https://5nav.ml/) |
+| ✅已上线 | 谢週五@导航站 | [谢週五@导航站 \- 5nav\.ml](https://5nav.ml/) |
 | ✅已上线 | 狼牌工作网址导航 | [https://www.volf.club/](https://www.volf.club/) |
 | ✅已上线 | 码灵导航 - 一个帮助开发者成长的程序员网址导航 | [https://nav.imaring.com/](https://nav.imaring.com/) |
 | ✅已上线 | 币门 | [币门 \| 通向加密货币之门](https://www.bimen.com/) |

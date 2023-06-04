@@ -233,9 +233,9 @@ var Rope = function () {
       node.gravity = gravity;
       if (i === _last && letter) {
         switch (letter) {
-          case '北': node.color = '#9BC9D4';break
-          case '辰': node.color = '#DEF7B2';break
-          case 'の': node.color = '#63E4E6';break
+          case '将': node.color = '#9BC9D4';break
+          case '军': node.color = '#DEF7B2';break
+          case '@': node.color = '#63E4E6';break
           case '小': node.color = '#E6AFAC';break
           case '栈': node.color = '#EDD176';break
         }
@@ -613,7 +613,7 @@ scene.run();
 
 // const pointer = new Pointer(canvas);
 
-var phrase = ' 北 辰 の 小 栈 ';
+var phrase = ' 将 军 @ 小 栈 ';
 
 var r = new Rope({
   x: scene.canvas.width * 0.15,
