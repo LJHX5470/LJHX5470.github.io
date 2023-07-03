@@ -1039,8 +1039,8 @@
   <div class='content'>
 
 
-        <a class='avatar flat-box circle' href='https://www.mz-zone.cn'>
-          <img no-lazy src='https://www.hualigs.cn/image/6411b246da80e.jpg'/>
+        <a class='avatar flat-box circle' href='https://LJHX5470.github.io'>
+          <img no-lazy src='https://i.imgloc.com/2023/07/03/VRYqbX.th.jpeg'/>
         </a>
 
 
@@ -1646,8 +1646,8 @@ pwd     – 查看当前用户所在的位置（某个路径下），当前的�
   <div class='content'>
 
 
-        <a class='avatar flat-box circle' href='https://www.mz-zone.cn'>
-          <img no-lazy src='https://www.hualigs.cn/image/6411b246da80e.jpg'/>
+        <a class='avatar flat-box circle' href='https://LJHX5470.github.io'>
+          <img no-lazy src='https://i.imgloc.com/2023/07/03/VRYqbX.th.jpeg'/>
         </a>
 
 
@@ -2809,7 +2809,7 @@ const ROOT =  ("/" || "/").endsWith('/') ? ("/" || "/") : ("//" || "/" );
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'https://www.mz-zone.cn' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'https://LJHX5470.github.io' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -2827,7 +2827,7 @@ const ROOT =  ("/" || "/").endsWith('/') ? ("/" || "/") : ("//" || "/" );
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'https://www.mz-zone.cn' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'https://LJHX5470.github.io' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -2849,7 +2849,7 @@ const ROOT =  ("/" || "/").endsWith('/') ? ("/" || "/") : ("//" || "/" );
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'https://www.mz-zone.cn' + pv.getAttribute('data-path');
+          var url = 'https://LJHX5470.github.io' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增
